@@ -1,0 +1,29 @@
+_repo: The-Romantic-Settlement-of-Lord-Selkirk-s-ColonistsThe-Pioneers-of-Manitoba_17358
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bryce, George
+    birthdate: 1844
+    deathdate: 1931
+    gutenberg_agent_id: '7323'
+    url: http://www.gutenberg.org/2009/agents/7323
+    wikipedia: http://www.mhs.mb.ca/docs/people/bryce_g.shtml
+description: ''
+gutenberg_issued: '2005-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Red River Settlement'
+- !lcc 'F1001'
+title: 'The Romantic Settlement of Lord Selkirk''s Colonists
+
+  The Pioneers of Manitoba'
+url: http://www.gutenberg.org/ebooks/17358
